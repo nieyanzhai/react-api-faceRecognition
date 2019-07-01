@@ -1,0 +1,21 @@
+.FaceRecognition {
+  width: 80%;
+  margin: 0 auto;
+  position: relative;
+}
+.FaceRecognition img {
+  width: 100%;
+  height: auto;
+}
+.bounding-box {
+  position: absolute;
+  box-shadow: 0 0 0 3px #149df2 inset;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  cursor: pointer;
+}
+.bounding-box:hover {
+  background: lightcoral;
+  opacity: 0.5;
+}

@@ -1,0 +1,9 @@
+.Particles {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  z-index: -1;
+  background: linear-gradient(to right, rgb(118, 109, 63), rgb(42, 183, 186));
+}

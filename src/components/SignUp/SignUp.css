@@ -1,0 +1,11 @@
+.SignUp {
+  display: flex;
+  justify-content: flex-end;
+  padding: 1rem;
+  cursor: pointer;
+  color: white;
+}
+.SignUp:hover {
+  text-decoration: underline;
+  color: green;
+}

@@ -1,0 +1,26 @@
+.Search {
+  width: 80%;
+  margin: 1rem auto;
+  padding: 1rem;
+}
+.Form {
+  width: 80%;
+  margin: 0 auto;
+}
+.Form input {
+  width: 60%;
+  padding: 0.4rem 0.6rem;
+}
+.Form button {
+  border: none;
+  border-radius: 0.2rem;
+  padding: 0.4rem 0.6rem;
+  background-color: rgb(103, 178, 32);
+  color: #eee;
+  margin-left: 1rem;
+  width: 20%;
+}
+.Form button:hover {
+  cursor: pointer;
+  background: green;
+}
